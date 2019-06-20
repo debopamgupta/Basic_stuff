@@ -7,3 +7,6 @@ If you want you can download or clone or copy the code into an IDE and change th
 # LinearSearch
 It is a simple program that initialises an integer array,and searches for an element entered from the user.
 Standalone app with main method.
+# Automorphicnumber
+Checks if a number is an automorphic number or not. If a square of a number contains the digits of the original number as its last digits,
+then it is an automorphic number.
