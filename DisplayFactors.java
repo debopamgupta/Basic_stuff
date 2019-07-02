@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LinearSearch {
+public class DisplayFactors {
 	public static void main(String args[])
 	{
 		int i,n;

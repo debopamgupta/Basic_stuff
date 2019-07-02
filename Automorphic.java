@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Myprogram
+public class Automorphicnumber
 {
   int getRemainder(int x)
   {
