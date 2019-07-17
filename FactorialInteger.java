@@ -21,5 +21,4 @@ public class FactorialInteger{
 
 		return f;
     }
-
-  }
+	}	
