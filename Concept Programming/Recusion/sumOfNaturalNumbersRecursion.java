@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Recursion {
+public class sumOfNaturalNumbers {
 
   // static int findSumOfDigits(int n) {
   // wap to find the sum of digits of a number with recursion
