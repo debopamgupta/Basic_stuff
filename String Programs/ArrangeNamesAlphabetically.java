@@ -12,7 +12,7 @@ output
 delhi, durgapur, kolkata, patna, pune
 
 */
-public class Program {
+public class ArrangeNameAlphabetically {
   public static void main(String[] args) {
     int i, j;
     String[] names = { "Delhi", "Durgapur", "Patna", "Kolkata", "Pune" };
