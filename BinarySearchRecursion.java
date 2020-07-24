@@ -55,7 +55,7 @@ public class BinarySearchRecursion {
     }
 
     BinarySearchRecursion obj = new BinarySearchRecursion();
-    int result = obj.binarysearch(a, 0, a.length - 1, e); // passing the index so length - 1
+    int result = obj.binarysearch(a, 0, a.length, e); // passing the index
 
     // -1 if ele not found
     if (result == -1)
