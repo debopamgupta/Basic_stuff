@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Wednesday {
+class FillArrayWithPrimeNumbers {
   static int n = 0;
 
   static boolean isprime(int x) {

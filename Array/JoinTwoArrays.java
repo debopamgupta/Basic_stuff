@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Join {
+public class JoinTwoArrays {
   int a[];
   int l;
   static int res[];
 
-  Join() {
+  JoinTwoArrays() {
     // constructor
     l = 0;
   }
@@ -23,7 +23,7 @@ public class Join {
     sc.close();
   }
 
-  void combine(Join A, Join B) {
+  void combine(JoinTwoArrays A, JoinTwoArrays B) {
     int pos = 0;
     for (int i = 0; i < A.a.length; i++) {
       res[i] = A.a[i];
@@ -41,9 +41,9 @@ public class Join {
   }
 
   public static void main(String[] args) {
-    Join obj1 = new Join();
+    JoinTwoArrays obj1 = new JoinTwoArrays();
     obj1.getData();
-    Join obj2 = new Join();
+    JoinTwoArrays obj2 = new JoinTwoArrays();
     obj2.getData();
     System.out.println("Value entered are");
     obj1.show();

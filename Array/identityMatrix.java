@@ -48,7 +48,7 @@
 
 import java.util.*;
 
-class Saturday {
+class IdentityMatrix {
 
   public static void main(String args[]) {
     int r, c, rs, cs, A[][];

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Antispiral {
+public class FillNumbersInAntiSpiralManner {
   public static void main(String[] args) {
     int A[][];
     System.out.println("enter limit of matrix");

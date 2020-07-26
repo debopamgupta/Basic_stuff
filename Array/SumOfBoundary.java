@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class Boundary {
+class SumOfBoundary {
 
   public static void main(String args[]) {
 

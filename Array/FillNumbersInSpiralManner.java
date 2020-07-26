@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Spiral {
+public class FillNumbersInSpiralManner {
   public static void main(String[] args) {
 
     System.out.println("Enter the number for n*n matrix");
