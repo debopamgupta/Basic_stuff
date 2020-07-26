@@ -4,4 +4,12 @@
 
 <img src="./assets/JavaCodeStack.png">
 
-WE ARE UPDATING THE README!! FOR NOW JUST LOOK AT THE FILE NAMES IN RESPECTIVE FOLDERS. :)
+Navigate to the directories for more info about the category of programs
+
+Programs are sorted by categories for easy access and organisation
+
+- Array
+- Conceptual Programming
+  - Recursion
+- Number Manipulation Programs
+- String Programs
