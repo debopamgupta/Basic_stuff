@@ -8,3 +8,4 @@
 - Longest Word in a sentence
 - Check if a word is present in the sentence or not
 - Print all words starting with a specific letter in a sentence
+- Implementing string.compareTo() function from Scratch
