@@ -22,7 +22,7 @@ class UserDefinedSquareMatrixFilling {
         a[r2][i] = k;
         k++;
       }
-      for (j = r2 - 2; j >= r1 + 1; j++) {
+      for (j = r2 - 2; j >= r1 + 1; j--) {
         a[j][c1] = k;
         k++;
       }
